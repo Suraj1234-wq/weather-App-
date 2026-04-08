@@ -91,3 +91,16 @@ button i {
   font-size: 38px;
   font-weight: 700;
 }
+
+
+
+
+/* 📱 Mobile Responsive */
+@media (max-width: 480px) {
+  .card {
+    padding: 15px;
+  }
+  button {
+    margin-right: 40px;
+  }
+}
