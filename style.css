@@ -100,9 +100,6 @@ button i {
   .card {
     padding: 15px;
   }
-  button {
-    margin-right: 40px;
-  }
    .search {
     display: flex;
     flex-direction: column;
