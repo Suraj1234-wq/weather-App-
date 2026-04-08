@@ -103,5 +103,6 @@ button i {
    .search {
     display: flex;
     flex-direction: row;
+     width: 80%;
   }
 }
