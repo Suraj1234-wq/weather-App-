@@ -14,3 +14,7 @@ HTML5
 CSS3 (Flexbox + Responsive Design)
 JavaScript (ES6)
 Weather API
+
+Project Screenshot 
+
+![Project Screenshot](weather.png)
